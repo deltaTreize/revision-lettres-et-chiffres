@@ -5,11 +5,11 @@ body{
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #113f1f;
+  background-color: #810101;
 }
 h1{
   font-size: 40px;
-  color: rgb(255, 0, 0);
+  color: rgb(21, 255, 0);
 }
 .container{
   width: 100%;
@@ -29,9 +29,9 @@ input{
   text-align: center;
   font-size: 200px;
   font-family: Tahoma;
-  background-color: #113f1f;
+  background-color: #810101;
   border: none;
-  color: black;
+  color: rgb(13, 1, 128);
 }
 #submit{
   box-sizing: border-box;
